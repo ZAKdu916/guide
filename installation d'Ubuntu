@@ -1,0 +1,70 @@
+Guide d'Installation d'Ubuntu
+
+Prérequis
+
+Une clé USB (au moins 8 Go).
+
+Une connexion Internet.
+
+Un ordinateur compatible.
+
+1. Téléchargement d'Ubuntu
+
+Rendez-vous sur le site officiel d'Ubuntu : ubuntu.com.
+
+Choisissez la version souhaitée (LTS recommandée pour la stabilité).
+
+Téléchargez le fichier ISO.
+
+2. Création d'une Clé USB Bootable
+
+Utilisez un outil comme Rufus (Windows), balenaEtcher (macOS/Linux).
+
+Sélectionnez l'image ISO téléchargée.
+
+Choisissez votre clé USB et démarrez la création.
+
+3. Configuration du BIOS/UEFI
+
+Redémarrez votre ordinateur.
+
+Accédez au BIOS/UEFI (généralement par F2, F12, DEL, ou ESC).
+
+Modifiez l'ordre de démarrage pour que la clé USB soit en priorité.
+
+4. Installation d'Ubuntu
+
+Démarrez sur la clé USB bootable.
+
+Choisissez "Essayer Ubuntu" pour tester ou "Installer Ubuntu".
+
+Sélectionnez votre langue et votre disposition de clavier.
+
+Choisissez une connexion Internet (recommandée).
+
+Sélectionnez le type d'installation (effacer tout ou installation à côté de Windows).
+
+Configurez votre partitionnement (automatique ou manuel).
+
+Définissez votre fuseau horaire.
+
+Créez votre nom d'utilisateur et mot de passe.
+
+Lancez l'installation.
+
+5. Post-Installation
+
+Redémarrez votre ordinateur.
+
+Retirez la clé USB.
+
+Connectez-vous avec votre nom d'utilisateur et mot de passe.
+
+6. Configuration Initiale
+
+Mettez à jour Ubuntu avec :
+
+sudo apt update && sudo apt upgrade -y
+
+Installez les logiciels essentiels (navigateur, éditeur de code, ...).
+
