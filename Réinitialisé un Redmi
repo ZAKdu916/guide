@@ -1,0 +1,35 @@
+# Guide de Réinitialisation d'un Smartphone Redmi
+
+## Prérequis
+
+* Assurez-vous de sauvegarder vos données importantes (photos, contacts, etc.).
+* Chargez votre téléphone à au moins 50%.
+
+## 1. Sauvegarder vos Données
+
+* Accédez à **Paramètres > À propos du téléphone > Sauvegarde et réinitialisation**.
+* Activez la synchronisation avec votre compte Google.
+* Utilisez **Google Drive** ou une autre application de sauvegarde pour enregistrer vos fichiers.
+
+## 2. Méthode de Réinitialisation Rapide (Depuis les Paramètres)
+
+1. Allez dans **Paramètres > À propos du téléphone > Sauvegarde et réinitialisation**.
+2. Sélectionnez **Réinitialiser aux paramètres d'usine**.
+3. Confirmez avec votre mot de passe ou empreinte digitale.
+4. Appuyez sur **Réinitialiser le téléphone**.
+
+## 3. Méthode de Réinitialisation via le Mode Recovery
+
+1. Éteignez votre téléphone Redmi.
+2. Maintenez les touches **Volume Haut + Power** enfoncées jusqu'à ce que le logo Mi apparaisse.
+3. Utilisez les touches de volume pour sélectionner **Wipe Data/Factory Reset**.
+4. Confirmez avec le bouton **Power**.
+5. Attendez la fin du processus.
+6. Sélectionnez **Reboot System Now**.
+
+## 4. Que faire après la Réinitialisation
+
+* Configurez votre téléphone comme lors de la première utilisation.
+* Connectez-vous à votre compte Google.
+* Restaurez vos données sauvegardées.
+
